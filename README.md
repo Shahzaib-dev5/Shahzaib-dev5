@@ -1,71 +1,60 @@
-# Hi there, I'm Shazaib Ali 👋
+# Shahzaib Ali
 
-I am a **Front-End Web Developer** with 2 years of experience in building user-friendly and responsive web applications. I have a strong focus on **React.js**, **Next.js**, **HTML**, **CSS**, and **JavaScript**. I enjoy working on dynamic web projects and enhancing user experience with creative design and interactivity.
+Full Stack Developer specializing in Laravel, PHP, MERN Stack, and enterprise web applications. Experienced in designing scalable backend systems, REST APIs, database architecture, and business automation solutions.
 
-## 🚀 Skills & Technologies
+Currently working on digital transformation projects, management information systems, and academic publishing platforms at KICS, UET Lahore.
 
-- **Languages**: HTML, CSS, JavaScript
-- **Web Frameworks**: React.js, Next.js
-- **Libraries & Tools**: Tailwind CSS, Bootstrap, Material UI, Styled Components, Git & GitHub
-- **Other Skills**: Responsive Design, UI/UX Design, API Integration, Version Control
+## Expertise
 
-## 🌟 Featured Projects
+* Laravel & PHP Development
+* MERN Stack Applications
+* REST API Development
+* Database Design & Optimization
+* Role-Based Access Control (RBAC)
+* Business Management Systems
+* OJS Customization & Upgrades
+* Blockchain & Web3 Fundamentals
 
-### **PHOTA - Pakistan Human Organ Transplant Authority**
-Developed a web application using **React.js** for managing hospital accreditation, organ transplant assessments, and hospital records.  
-- Implemented **JWT Authentication** for secure access to sensitive data.  
-- Integrated with **.NET Core** backend services for data handling.  
-- Ensured regulatory compliance and collaborated with government officials.  
-- Used **Swagger** for API documentation and participated in **Agile** development using **Jira** and **GitHub**.
+## Notable Projects
 
-### **Truck Dispatching Website**
-A responsive website developed for truck dispatching, focusing on creative widgets and animations to improve the user experience.  
-**Tech Used**: Next.js, Tailwind CSS, React.js, Styled Components
+### Installment Management System (IMS)
 
-### **Caps CRM Dashboard**
-A dynamic CRM dashboard built using **React.js** and **Material-UI**, designed to provide an intuitive interface for managing customer data.  
-**Tech Used**: React.js, Material UI, JavaScript
+Enterprise-grade financing management platform developed with Laravel 12 featuring:
 
-### **Greeny Vegetable Website**
-Developed a responsive website for a vegetable company, enhancing user experience with creative widgets and animations.  
-**Tech Used**: HTML, CSS, JavaScript, React.js
+* Customer & Guarantor Management
+* Product & Inventory Management
+* Installment Scheduling & Recoveries
+* Invoice, Agreement & Receipt Generation
+* Reports & Analytics Dashboard
+* RBAC, Audit Logs & Activity Tracking
+* WhatsApp, SMS & Email Reminder Architecture
 
-### **Portfolio Website**
-A personal portfolio website showcasing my skills, projects, and experience.  
-**Tech Used**: React.js, Tailwind CSS
+### Faculty & Project Management System (FPMS)
 
-## 📚 Education
+Contributed to the development and enhancement of a university management platform, including staff management, bulk data import/export, and administrative workflow improvements.
 
-**BS in Computer Science (BS-CS)**  
-Virtual University of Pakistan (Complete)
+### Open Journal Systems (OJS)
 
-## 💼 Experience
+Upgraded and customized academic journal platforms from OJS 3.3 to OJS 3.5, improving usability, security, and maintainability.
 
-### **Frontend Developer**  
-**Al-Khawarizmi KKICS** (October 2025 - Present)  
-Developed a web application using **React.js** for managing hospital accreditation, organ transplant assessments, and hospital records. 
-- Implemented **JWT Authentication** for secure access to sensitive data.  
-- Integrated with **.NET Core** backend services for data handling.  
-- Ensured regulatory compliance and collaborated with government officials.  
-- Used **Swagger** for API documentation and participated in **Agile** development using **Jira** and **GitHub**.
+### DecentraSense
 
+Blockchain-enabled IoT device management system integrating Ethereum smart contracts, React frontend, and real-time sensor monitoring.
 
-### **Frontend Developer**  
-**AAA Digital** (10August2024 - August 2025)  
-- Worked on the **Truck Dispatching Website** and **Caps CRM Dashboard**.
-- Focused on creating responsive designs and enhancing website interactivity using **React.js** and **Tailwind CSS**.
+## Technology Stack
 
-### **Frontend Developer**  
-**Tecjaunt Software Company** (December2023 - 10April2024)  
-- Worked on the **Greeny Vegetable Website**, designing creative widgets and animations to enhance user experience.
-- Focused on making the website responsive across all devices.
-- Developed a short CRUD project using HTML, CSS, and JavaScript, learning the basics of **Create**, **Read**, **Update**, and **Delete** operations.
-- Gained hands-on experience in building and manipulating data seamlessly.
+**Backend:** Laravel, PHP, Node.js, Express.js
 
-## 🧑‍💻 Personal Interests
+**Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap
 
-- **Hobbies**: Traveling, Watching Movies/Seasons, Playing Cricket
+**Databases:** MySQL, MongoDB
 
----
+**Blockchain:** Solidity, Ethereum
 
-Feel free to connect with me or explore my repositories! 👨‍💻
+**Tools:** Git, GitHub, Composer, Postman, XAMPP
+
+## Contact
+
+* Email: [sa6342100@gmail.com](mailto:sa6342100@gmail.com)
+* LinkedIn: linkedin.com/in/shahzaib-ali
+* GitHub: github.com/Shahzaib-dev5
